@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "win10 关闭更新"
-categories: win10
+categories: OOAD
 tags:  win10 工具软件  
 author: SnakeSon
 ---
@@ -42,6 +42,3 @@ author: SnakeSon
 ![图片.png](http://upload-images.jianshu.io/upload_images/2577413-8d901951002a4bc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 会多出这两个位置，这样子就设置成功了。
-
-
-
