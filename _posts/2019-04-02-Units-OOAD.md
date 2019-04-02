@@ -10,6 +10,7 @@ author: Allan
 {:toc}
 
 ## CU(1) Course requirements, evaluation & organization.
+<A href="\resources\PPT\UML training.pptx">UML training</a>
 
 ## CU(2) The Strategy Pattern
 
