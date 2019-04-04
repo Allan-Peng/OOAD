@@ -8,7 +8,7 @@
 # Site settings
 title: Allan Peng's course website
 brief-intro: Object Oriented Analysis and Design
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/OOAD" # the subpath of your site, e.g. /blog
 url: "https://allan-peng.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
