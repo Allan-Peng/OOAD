@@ -11,7 +11,8 @@ brief-intro: OO Analysis & Design and Software Engineering
 baseurl: "/OOAD" # the subpath of your site, e.g. /blog
 url: "https://allan-peng.github.io" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
+# permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #gaohaoyang126
