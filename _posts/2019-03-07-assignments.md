@@ -11,6 +11,7 @@ author: Allan
 
 ## 1.the Strategy pattern
 <A href="./../resources/Assignments/Strategy.Homework.docx">Homework</a>
+<A href="./../resources\Assignments\Strategy.Homework.solution.docx">Solution</a>
 ## 2.the Observer Pattern
 ## 3.the Decorator Pattern
 ## 4.the Factory Pattern
