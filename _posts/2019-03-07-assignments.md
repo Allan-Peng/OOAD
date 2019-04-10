@@ -27,6 +27,7 @@ author: Allan
 ## 6.the Command Pattern
 <A href="./../resources/Assignments/Command.Homework.docx">Homework</a>
 (<A href="./../resources/Assignments/Command.Homework.solution.docx"><u>Solution</u></a>)
+<!-- (<A href="./../resources/Assignments/Command.Homework.solution.docx"><u>Solution</u></a>) -->
 ## 7.the Adapter and Facade Patterns
 <A href="./../resources/Assignments/Adpter.Facade.Homework.docx">Homework</a>
 <!-- (<A href="./../resources/Assignments/Adpter.Facade.Homework.solution.docx">Solution</a>) -->
