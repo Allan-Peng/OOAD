@@ -36,6 +36,9 @@ valine:
   enable: true
   app_id: aWmxImW1VQRcFejJrxoywlPR-gzGzoHsz
   app_key: cQSczwiRJqEz53poq0C7Ak9n
+  notifiy: false
+  verfify: false
+
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
