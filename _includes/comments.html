@@ -11,9 +11,9 @@
 </script> -->
 
 {% if site.valine.enable %}
-hello
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+ "{{ " /js/av-min.js " | prepend: site.url }}"
+<script src="{{ " /js/av-min.js " | prepend: site.url }}"></script>
+<script src="{{ " /js/Valine.min.js " | prepend: site.url }}"></script>
 <script>
     new Valine({
         el: '#vcomments',
