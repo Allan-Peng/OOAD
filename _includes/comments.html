@@ -11,9 +11,9 @@
 </script> -->
 
 {% if site.valine.enable %}
- "{{ " /js/av-min.js " | prepend: site.baseurl }}"
-<script src="{{ "/js/av-min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/Valine.min.js" | prepend: site.baseurl}}"></script>
+ "{{ " /js/av-min.js " | prepend: site.baseurl | prepend: site.url  }}"
+<script src="{{ "/js/av-min.js" | prepend: site.baseurl | prepend: site.url  }}"></script>
+<script src="{{ "/js/Valine.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <script>
     new Valine({
         el: '#vcomments',
