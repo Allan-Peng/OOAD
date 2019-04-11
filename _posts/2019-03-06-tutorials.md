@@ -19,11 +19,11 @@ author: Allan
 ## 8.the Adapter and Facade Patterns
 ## 9.the Template Method Pattern
 ## 10.the State Pattern
-<script>
+<!-- <script>
 str ="{{ "/js/main.js "  | prepend: site.baseurl  |  prepend: site.url }}"
 document.write(str);
 str ="{{ "/js/smooth-scroll.min.js "  | prepend: site.baseurl}}"
 document.write(str);
 </script>
 " /js/smooth-scroll.min.js ".replace(/(^\s*)/g,"")
-{{site.url }}
+{{site.url }} -->
