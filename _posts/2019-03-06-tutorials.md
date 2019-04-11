@@ -20,5 +20,5 @@ author: Allan
 ## 9.the Template Method Pattern
 ## 10.the State Pattern
 <!-- <script "{{ " /js/smooth-scroll.min.js "  | prepend: site.baseurl}}".replace(/(^\s*)/g,"") ></script> -->
-" /js/smooth-scroll.min.js ".replace(/(^\s*)/g,"") 
+" /js/smooth-scroll.min.js ".replace(/(^\s*)/g,"")
 {{site.url }}
