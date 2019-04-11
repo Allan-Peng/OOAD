@@ -22,6 +22,8 @@ author: Allan
 <script>
 str ="{{ "/js/main.js "  | prepend: site.baseurl  |  prepend: site.url }}"
 document.write(str);
+str ="{{ "/js/smooth-scroll.min.js "  | prepend: site.baseurl}}"
+document.write(str);
 </script>
 " /js/smooth-scroll.min.js ".replace(/(^\s*)/g,"")
 {{site.url }}
